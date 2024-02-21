@@ -640,7 +640,7 @@ ModelMapper - perevoit iz DTO v model (mapit)
 ----------------------------------------------------------------
 GIT HUB
 access token   - password - generated in git -> in settings -> developer settings -> Tokens(classic) use like a password
-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
+
 login aamred
 ----------------------------------------------------------------
 @Component nado shob vnedryat s pomoshyu @Autowired
